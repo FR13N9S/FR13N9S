@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Refat Khan</h1>
 <h3 align="center">Learner...</h3>
+<img src="https://tryhackme-badges.s3.amazonaws.com/adlof.png" alt="TryHackMe">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=refatkhan&label=Profile%20views&color=0e75b6&style=flat" alt="refatkhan" /> </p>
